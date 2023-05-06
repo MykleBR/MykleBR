@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MykleBR
+- 👋 Hi, I’m Michael de Lima
 - 👀 I’m interested in Full stack developer
 - 🌱 I’m currently learning Python, Django, AWS, HTML CSS JS, NOSQL, DataScience with Seaborn pandas, matplotlib;
 - 💞️ I’m looking to collaborate on ...
