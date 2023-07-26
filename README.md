@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Michael de Lima
 - 👀 I’m interested in Full stack developer
 - 🌱 I’m currently learning Python, Django, Flask, AWS, HTML CSS JS, SQL, Mongodb, DataScience with Seaborn, pandas e matplotlib;
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Sinegia Engenharia de Meio Ambiente.
 - 📫 How to reach me michafloyd@gmail.com or +5541997765334
 
 <!---
